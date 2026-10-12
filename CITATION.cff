@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository as a draft visual specification; no DOI or release version is recorded."
+title: "SOVRINT Visual Bible"
+authors:
+  - family-names: Pietroniro
+    given-names: Katrina
+repository-code: "https://github.com/SOVRINT-OG/sovrint-visual-bible"
+keywords:
+  - visual specification
+  - accessibility
+  - SVG
+  - design systems
