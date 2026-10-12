@@ -82,3 +82,8 @@ Repository initialized as the public SOVRINT™ visual specification authority.
 SOVRINT™ visual systems, glyphs, palettes, diagrams, and topology grammar are authored by **Katrina Pietroniro**.
 
 All rights reserved. No license is granted by the public visibility of this repository.
+
+
+## Research status and evidence
+
+See [RESEARCH_STATUS.yaml](./RESEARCH_STATUS.yaml) for the version, release, DOI, evidence class, validation state, source-register guidance, and rights metadata. Update that record when those facts change. Cite sources beside claims that depend on them; citation alone does not grant reuse permission.
